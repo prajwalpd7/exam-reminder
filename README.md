@@ -39,7 +39,7 @@ Built With
 `Python - The programming language used
 
 Author
-Your Name - https://github.com/prajwalpd7
+Prajwal D - https://github.com/prajwalpd7
 
 Acknowledgments-
 !I would like to acknowledge the Twilio documentation and community for providing the resources and guidance to interact with the WhatsApp API.
